@@ -1,0 +1,15 @@
+# Turkish NLP Q&A Dataset
+> Türkçe Soru Cevap Veri Seti - Turkish Question Answering Dataset
+
+Bu veri seti Teknofest 2018 Yapay Zeka yarışması kapsamında Türk & İslam Bilim Tarihi üzerine oluşturulan Türkçe Soru-Cevap veri setidir.
+
+This dataset is the Turkish Question & Answer dataset on Turkish & Islamic Science History within the scope of Teknofest 2018 Artificial Intelligence competition.
+
+## Veri seti / Dataset
+|                          | Başlık / Title | Paragraf / Paragraph | Soru-Cevap / Q&A |
+|--------------------------|----------------|----------------------|------------------|
+| Geliştirme / Development | 72             | 275                  | 892              |
+| Eğitim / Train           | 681            | 2232                 | 8308             |
+
+## Kullanıldı / Used in
+- https://github.com/savasy/Turkish-Bert-NLP-Pipeline
