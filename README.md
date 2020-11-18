@@ -13,6 +13,7 @@ This dataset is the Turkish Question & Answer dataset on Turkish & Islamic Scien
 
 ## Kullanıldı / Used in
 - https://github.com/savasy/Turkish-Bert-NLP-Pipeline
+- https://github.com/okanvk/ENELPI---Soru-Cevap-Sistemi
 
 Lütfen katkıda bulunmaktan çekinmeyin
 
