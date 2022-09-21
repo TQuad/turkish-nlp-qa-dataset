@@ -1,4 +1,8 @@
 # Turkish NLP Q&A Dataset
+
+<p>
+<a href="https://console.tiyaro.ai/explore/savasy-bert-base-turkish-squad"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
 > Türkçe Soru Cevap Veri Seti - Turkish Question Answering Dataset
 
 Bu veri seti Teknofest 2018 Yapay Zeka yarışması kapsamında Türk & İslam Bilim Tarihi üzerine oluşturulan Türkçe Soru-Cevap veri setidir.
